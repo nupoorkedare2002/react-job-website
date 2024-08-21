@@ -18,6 +18,9 @@ This project is a job listing website built using React, Vite, and Tailwind CSS.
 
 - Live Demo : https://react-job-website-seven.vercel.app/
 - it fetches the data from the server in order to view the data clone the repo and start the server
+  
+- https://github.com/user-attachments/assets/85cad175-8919-4f5c-bd43-2c5b2bdc87fe
+
 
 ## Setup
 
