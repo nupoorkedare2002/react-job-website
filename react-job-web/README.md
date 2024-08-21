@@ -1,8 +1,16 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# React CRUD Application
+- A modern React-based web application that performs CRUD (Create, Read, Update, Delete) operations with Tailwind CSS for styling and Vite as the build tool.
+- This project uses JSON Server to simulate a backend with a local JSON file.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Features
+- CRUD Operations: Create, Read, Update, and Delete data
+- Responsive Design: Utilizes Tailwind CSS for a responsive and customizable UI
+- Fast Development: Built with Vite for quick builds and hot module replacement
+- Local Data Management: Uses a JSON file for local data storage and manipulation
+  
+# Technologies Used
+- React: JavaScript library for building user interfaces
+- Tailwind CSS: Utility-first CSS framework for styling
+- Vite: Next-generation front-end tool for faster builds and development
+- JSON Server: Provides a mock backend with a JSON file for local development
