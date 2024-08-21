@@ -16,6 +16,9 @@ This project is a job listing website built using React, Vite, and Tailwind CSS.
 - **Update Jobs**: Edit existing job listings.
 - **Delete Jobs**: Remove job listings.
 
+- Live Demo : https://react-job-website-seven.vercel.app/
+- it fetches the data from the server in order to view the data clone the repo and start the server
+
 ## Setup
 
 1. **Clone the repository:**
@@ -63,7 +66,7 @@ This project is a job listing website built using React, Vite, and Tailwind CSS.
 
     This will start the Vite development server and open your application in the default browser.
 
-   5. **Production Build :**
+5.  **Production Build :**
       - npm run build 
       - ![Screenshot 2024-08-21 121854](https://github.com/user-attachments/assets/45e08aad-741c-4559-9f8d-5b2b7034cad4)
 
