@@ -106,6 +106,4 @@ This project is a job listing website built using React, Vite, and Tailwind CSS.
 
 **Note:** Since the data is stored in a local JSON file, any changes made (add, update, delete) will only be visible in the current session unless you implement a persistent backend service or local storage solution.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
